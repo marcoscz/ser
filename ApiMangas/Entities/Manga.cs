@@ -11,7 +11,7 @@ public class Manga : Entity
     public string? Formato { get; set; }
     public string? Cor { get; set; }
     public string? Origem { get; set; }
-    public string? Imagem { get; set; } 
+    public string? Imagem { get; set; }
     public decimal Preco { get; set; }
     public int Estoque { get; set; }
 

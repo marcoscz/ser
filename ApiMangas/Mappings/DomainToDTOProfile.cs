@@ -1,6 +1,7 @@
-﻿using AutoMapper;
-using ApiMangas.DTOs;
+﻿using ApiMangas.DTOs;
 using ApiMangas.Entities;
+
+using AutoMapper;
 
 namespace ApiMangas.Mappings;
 
@@ -15,6 +16,6 @@ public class DomainToDTOProfile : Profile
         // O mapeamento especifica que a propriedade NomeCategoria do DTO será
         // mapeada a partir da propriedade Nome da propriedade Categoria do objeto Manga.
         CreateMap<Manga, MangaCategoriaDTO>()
-            .ForMember(dto => dto.NomeCategoria, opt=> opt.MapFrom(src=> src.Categoria.Nome));
+            .ForMember(dto => dto.NomeCategoria, opt => opt.MapFrom(src => src.Categoria.Nome));
     }
 }

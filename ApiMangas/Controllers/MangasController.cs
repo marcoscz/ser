@@ -2,7 +2,9 @@
 using ApiMangas.DTOs;
 using ApiMangas.Entities;
 using ApiMangas.Repositories.Interfaces;
+
 using AutoMapper;
+
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -27,7 +29,7 @@ public class MangasController : ControllerBase
     [HttpGet("paginacao")]
     [ProducesResponseType(StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status404NotFound)]
-    public async Task<ActionResult<List<MangaDTO>>> GetMangasPaginacao([FromQuery] 
+    public async Task<ActionResult<List<MangaDTO>>> GetMangasPaginacao([FromQuery]
                                                     Paginacao paginacao)
     {
         var mangasPaginados = _mangaRepository.GetMangasQueryable();
@@ -140,12 +142,12 @@ public class MangasController : ControllerBase
     [ProducesResponseType(StatusCodes.Status404NotFound)]
     public async Task<ActionResult<IEnumerable<MangaDTO>>> Search(string mangaTitulo)
     {
-           var mangas = await _mangaRepository.SearchAsync(m => m.Titulo.Contains(mangaTitulo));
-           
-           if (mangas is null)
-                 return NotFound("Nenhum mangá foi encontrado");   
+        var mangas = await _mangaRepository.SearchAsync(m => m.Titulo.Contains(mangaTitulo));
 
-           return Ok(_mapper.Map<IEnumerable<MangaDTO>>(mangas));        
+        if (mangas is null)
+            return NotFound("Nenhum mangá foi encontrado");
+
+        return Ok(_mapper.Map<IEnumerable<MangaDTO>>(mangas));
     }
 
     [HttpGet]

@@ -5,7 +5,7 @@ namespace ApiMangas.Entities;
 public sealed class Categoria : Entity
 {
     public Categoria()
-    { }       
+    { }
     public string? Nome { get; private set; }
     public string? IconCSS { get; private set; }
     public Categoria(string nome, string iconCss)

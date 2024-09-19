@@ -1,4 +1,5 @@
 ﻿using ApiMangas.Entities;
+
 using System.Linq.Expressions;
 
 namespace ApiMangas.Repositories.Interfaces;
