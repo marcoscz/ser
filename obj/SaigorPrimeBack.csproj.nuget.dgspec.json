@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_Projetos\\SaigorPrimeBack\\SaigorPrimeBack.csproj": {}
+    "C:\\_Projetos\\ser\\SaigorPrimeBack.csproj": {}
   },
   "projects": {
-    "C:\\_Projetos\\SaigorPrimeBack\\SaigorPrimeBack.csproj": {
+    "C:\\_Projetos\\ser\\SaigorPrimeBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\_Projetos\\SaigorPrimeBack\\SaigorPrimeBack.csproj",
+        "projectUniqueName": "C:\\_Projetos\\ser\\SaigorPrimeBack.csproj",
         "projectName": "SaigorPrimeBack",
-        "projectPath": "C:\\_Projetos\\SaigorPrimeBack\\SaigorPrimeBack.csproj",
+        "projectPath": "C:\\_Projetos\\ser\\SaigorPrimeBack.csproj",
         "packagesPath": "C:\\Users\\mcozzolino\\.nuget\\packages\\",
-        "outputPath": "C:\\_Projetos\\SaigorPrimeBack\\obj\\",
+        "outputPath": "C:\\_Projetos\\ser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
