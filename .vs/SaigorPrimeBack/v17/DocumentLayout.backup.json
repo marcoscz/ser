@@ -1,37 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\_Projetos\\ser\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{339DEB27-9463-4C6C-A779-CA4B37455CF5}|SaigorPrimeBack.csproj|c:\\_projetos\\ser\\saigorprimeback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{339DEB27-9463-4C6C-A779-CA4B37455CF5}|SaigorPrimeBack.csproj|solutionrelative:saigorprimeback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\_Projetos\\SaigorPrimeBack\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SaigorPrimeBack.http",
-              "DocumentMoniker": "C:\\_Projetos\\ser\\SaigorPrimeBack.http",
-              "RelativeDocumentMoniker": "SaigorPrimeBack.http",
-              "ToolTip": "C:\\_Projetos\\ser\\SaigorPrimeBack.http",
-              "RelativeToolTip": "SaigorPrimeBack.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-23T14:33:54.52Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

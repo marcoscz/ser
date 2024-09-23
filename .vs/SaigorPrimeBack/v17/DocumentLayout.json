@@ -1,71 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\_Projetos\\ser\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{339DEB27-9463-4C6C-A779-CA4B37455CF5}|SaigorPrimeBack.csproj|c:\\_projetos\\ser\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{339DEB27-9463-4C6C-A779-CA4B37455CF5}|SaigorPrimeBack.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339DEB27-9463-4C6C-A779-CA4B37455CF5}|SaigorPrimeBack.csproj|c:\\_projetos\\ser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{339DEB27-9463-4C6C-A779-CA4B37455CF5}|SaigorPrimeBack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{339DEB27-9463-4C6C-A779-CA4B37455CF5}|SaigorPrimeBack.csproj|c:\\_projetos\\ser\\saigorprimeback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{339DEB27-9463-4C6C-A779-CA4B37455CF5}|SaigorPrimeBack.csproj|solutionrelative:saigorprimeback.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\_Projetos\\SaigorPrimeBack\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\_Projetos\\ser\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\_Projetos\\ser\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-09-23T14:34:27.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\_Projetos\\ser\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\_Projetos\\ser\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:34:24.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SaigorPrimeBack.http",
-              "DocumentMoniker": "C:\\_Projetos\\ser\\SaigorPrimeBack.http",
-              "RelativeDocumentMoniker": "SaigorPrimeBack.http",
-              "ToolTip": "C:\\_Projetos\\ser\\SaigorPrimeBack.http",
-              "RelativeToolTip": "SaigorPrimeBack.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-23T14:33:54.52Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

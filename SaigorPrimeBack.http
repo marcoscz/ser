@@ -1,4 +1,4 @@
-@SaigorPrimeBack_HostAddress = https://ser-qcpu.onrender.com
+@SaigorPrimeBack_HostAddress = http://localhost:5128
 
 GET {{SaigorPrimeBack_HostAddress}}/weatherforecast/
 Accept: application/json
