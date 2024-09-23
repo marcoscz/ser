@@ -1,7 +1,0 @@
-[build]
-builder = "dockerfile"
-dockerfilePath = "./SaigorPrimeBack/Dockerfile"
-
-[deploy]
-startCommand = "dotnet SaigorPrimeBack.dll"
-restartPolicyType = "never"
